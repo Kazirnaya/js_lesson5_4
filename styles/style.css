@@ -1,0 +1,17 @@
+﻿body {
+    display: flex;
+    justify-content: flex-start;
+}
+p {
+    margin: 0;
+}
+img {
+    width: 200px;
+}
+
+.product {
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
